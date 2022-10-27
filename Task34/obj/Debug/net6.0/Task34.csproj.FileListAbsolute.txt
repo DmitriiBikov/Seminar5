@@ -1,0 +1,16 @@
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.GlobalUsings.g.cs
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.csproj.AssemblyReference.cache
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.AssemblyInfoInputs.cache
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.AssemblyInfo.cs
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.csproj.CoreCompileInputs.cache
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\bin\Debug\net6.0\Task34.exe
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\bin\Debug\net6.0\Task34.deps.json
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\bin\Debug\net6.0\Task34.runtimeconfig.json
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\bin\Debug\net6.0\Task34.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\bin\Debug\net6.0\ref\Task34.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\bin\Debug\net6.0\Task34.pdb
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\obj\Debug\net6.0\ref\Task34.dll
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.pdb
+C:\Users\Вась\Desktop\Для VS\C#\Seminar5\Task34\obj\Debug\net6.0\Task34.genruntimeconfig.cache
